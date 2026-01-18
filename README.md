@@ -49,7 +49,7 @@
 3. Insert rotation keyframes on the local axis Z
 4. Set keyframe interpolation to **Linear**
 
-### Multiple axes (no swapping needed)
+### Multiple axes
 - Create one `axis_arrow` per rotation axis (`axis_arrow_A`, `axis_arrow_B`, `axis_arrow_C`)
 - Apply visual transform and set each arrow to Quaternion rotation like before
 - Keep all **Child Of** constraints on the tetrahedron enabled at all times
