@@ -1,4 +1,4 @@
-# Exact-custom-axis rotation rig (Blender)
+# Tetrahedron rotation around symmetry axes
 
 ## Rig
 1. Enable add-on: `Add Mesh: Extra Objects` (Platonic Solids).
